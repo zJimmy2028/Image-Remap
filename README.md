@@ -4,6 +4,14 @@
 
 也可以作为全景图片转化鱼眼视角使用。
 
+输入图像：
+
+![棋盘格](chessboard1.jpg)
+
+输出图像：
+
+![映射后的棋盘格](chessboard1_remap.jpg)
+
 ## 运行环境
 - Python3.9
 - opencv4.7.0.72
